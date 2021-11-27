@@ -1,7 +1,7 @@
 [
    {
       "curso":"Formacao em Psicanalise (Online Ao Vivo / Presencial)",
-      {
+      [
             "data":"",
             "duracao":"24 meses (520 horas)",
             "Hora":"",
@@ -16,9 +16,9 @@
              ],
              "estagio":"O(A) Aluno(a) sera liberado(a) para atender em estagio supervisionado, por um(a) Psicanalista associado(a) ao NBP-Nucleo Brasileiro de Psicanalise.\n",
              "coordenacao":"Aurelio Gonzales\nPsicanalista, Professor e Diretor do NBP-Nucleo Brasileiro de Psicanalise\n"
-      },   
+      ],   
       "curso":"Curso Livro Nocoes Basicas de Psicanalise (Online)",
-          {
+          [
             "data":"Toda sexta-feira",
             "duracao":"",
             "Hora":"19:00 as 20:00\n\n\n",
@@ -32,6 +32,6 @@
             "atividade":[],
             "estagio":"",
             "coordenacao":""
-           }
+           ]
         }
     ]
