@@ -1,36 +1,59 @@
-[
-   {
-      "curso":[{             
-               "nome": "Formacao em Psicanalise (Online Ao Vivo / Presencial)",
-               "data":"",
-               "duracao":"24 meses (520 horas)",
-               "Hora":"",
-               "matricula":"Valor de R$ 150,00",
-               "mensalidade":"Valor de R$ 380,00",
-               "valor":"",
-               "informacao":"Forme-se Psicanalista em 24 meses!\n(O nosso curso e registrado na Biblioteca Nacional RDA e na ABRATH. Sendo um curso modular, permite que voce comece a qualquer momento.)\nA formacao em Psicanalise, permite que voce tenha consultorio, e exerca livremente a ocupacao de Psicanalista; que e classificada na CBO (Classificacao Brasileira de Ocupacoes) no Ministerio do Trabalho  Portaria no 397/TEM de 09/10/2002, sob o no 2515.50, podendo exercer sua ocupacao em todo o Territorio Nacional.\nDirigido a todas as pessoas interessadas na formacao em Psicanalise, e tambem para todos que desejam adquirir conhecimentos mais profundos da teoria Psicanalitica.\n",
-               "turma":":: Segunda-feira: (Aulas semanais  Toda 2a feira das 19h as 22h15m)\n:: Terca-feira: (Aulas semanais  Toda 3a feira das 19h as 22h15m)\n:: Quarta-feira Manha: (Aulas semanais  Toda 4a feira das 09 as 12h15m)\n:: Quarta-feira Noite: (Aulas semanais  Toda 4a feira das 19h as 22h15min)\n:: Quinta-feira: (Aulas semanais  Toda 5a feira das 19h as 22h15min)\n",
-               "requisito":["Maiores de 20 anos, com Ensino Medio completo.","Entrevista individual gratuita. (As entrevistas sao de 2a a 6a feiras, das 10 as 21 horas  Agendar pelo telefone pelo WhatsApp 11 96169-5163)"],
-               "conteudo":["Historia da Psicanalise (03 horas)","Sigmund Freud I, II, III e IV (93 horas)","Jacques Lacan (39 horas)","Psicopatologias e Psicossomatica na Psicanalise (27 horas)","Neuropsicanalise (12 horas)","Psicofarmacologia na Psicanalise (12 horas)","Melanie Klein (18 horas)","Anna Freud (12 horas)","D. W. Winnicott (18 horas)","Psicanalise Contemporanea l, ll e lll (69 horas)","Carl Gustav Jung (Dentro da Psicanalise Contemporanea lll)"],
-               "atividade":["Analise/Terapia Individual (com um dos nossos Psicanalistas  Analise Didatica)","Terapia em Grupo","Trabalhos Individuais e/ou em Grupo","Estagio Supervisionado","Trabalho de Finalizacao de Curso"],
-               "estagio":"O(A) Aluno(a) sera liberado(a) para atender em estagio supervisionado, por um(a) Psicanalista associado(a) ao NBP-Nucleo Brasileiro de Psicanalise.\n",
-                "coordenacao":"Aurelio Gonzales\nPsicanalista, Professor e Diretor do NBP-Nucleo Brasileiro de Psicanalise"
-              },
-              {
-               "nome":"Curso Livro Nocoes Basicas de Psicanalise (Online)",
-               "data":"Toda sexta-feira",
-               "duracao":"",
-               "Hora":"19:00 as 20:00",
-               "matricula":"",
-               "mensalidade":"",
-               "valor":"R$ 15,00 / aulaR$ 10,00 / aula (alunos NBP)",
-               "informacao":"O Livro Nocoes Basicas de Psicanalise do Charles Brenner e um classico necessario para todos aqueles que desejam estudar, saber mais sobre a Psicanalise.\nPor conta disso, o nosso Psicanalista, Professor e Diretor Aurelio Gonzales tem se dedicado a toda sexta-feira das 19h as 20h estudar com um grupo de interessados(as) em obter mais conhecimento sobre o tema.\nEntre em contato conosco mais informacoes!\n",
-               "turma":"",
-               "requisito":"",
-               "conteudo":"",
-               "atividade":[],
-               "estagio":"",
-               "coordenacao":""
-              }]
-           }
-    ]
+{
+   "curso":[
+      {
+         "nome":"Formacao em Psicanalise (Online Ao Vivo / Presencial)",
+         "data":"",
+         "duracao":"24 meses (520 horas)",
+         "Hora":"",
+         "matricula":"Valor de R$ 150,00",
+         "mensalidade":"Valor de R$ 380,00",
+         "valor":"",
+         "informacao":"Forme-se Psicanalista em 24 meses!\n(O nosso curso e registrado na Biblioteca Nacional RDA e na ABRATH. Sendo um curso modular, permite que voce comece a qualquer momento.)\nA formacao em Psicanalise, permite que voce tenha consultorio, e exerca livremente a ocupacao de Psicanalista; que e classificada na CBO (Classificacao Brasileira de Ocupacoes) no Ministerio do Trabalho  Portaria no 397/TEM de 09/10/2002, sob o no 2515.50, podendo exercer sua ocupacao em todo o Territorio Nacional.\nDirigido a todas as pessoas interessadas na formacao em Psicanalise, e tambem para todos que desejam adquirir conhecimentos mais profundos da teoria Psicanalitica.\n",
+         "turma":":: Segunda-feira: (Aulas semanais  Toda 2a feira das 19h as 22h15m)\n:: Terca-feira: (Aulas semanais  Toda 3a feira das 19h as 22h15m)\n:: Quarta-feira Manha: (Aulas semanais  Toda 4a feira das 09 as 12h15m)\n:: Quarta-feira Noite: (Aulas semanais  Toda 4a feira das 19h as 22h15min)\n:: Quinta-feira: (Aulas semanais  Toda 5a feira das 19h as 22h15min)\n",
+         "requisito":[
+            "Maiores de 20 anos, com Ensino Medio completo.",
+            "Entrevista individual gratuita. (As entrevistas sao de 2a a 6a feiras, das 10 as 21 horas  Agendar pelo telefone pelo WhatsApp 11 96169-5163)"
+         ],
+         "conteudo":[
+            "Historia da Psicanalise (03 horas)",
+            "Sigmund Freud I, II, III e IV (93 horas)",
+            "Jacques Lacan (39 horas)",
+            "Psicopatologias e Psicossomatica na Psicanalise (27 horas)",
+            "Neuropsicanalise (12 horas)",
+            "Psicofarmacologia na Psicanalise (12 horas)",
+            "Melanie Klein (18 horas)",
+            "Anna Freud (12 horas)",
+            "D. W. Winnicott (18 horas)",
+            "Psicanalise Contemporanea l, ll e lll (69 horas)",
+            "Carl Gustav Jung (Dentro da Psicanalise Contemporanea lll)"
+         ],
+         "atividade":[
+            "Analise/Terapia Individual (com um dos nossos Psicanalistas  Analise Didatica)",
+            "Terapia em Grupo",
+            "Trabalhos Individuais e/ou em Grupo",
+            "Estagio Supervisionado",
+            "Trabalho de Finalizacao de Curso"
+         ],
+         "estagio":"O(A) Aluno(a) sera liberado(a) para atender em estagio supervisionado, por um(a) Psicanalista associado(a) ao NBP-Nucleo Brasileiro de Psicanalise.\n",
+         "coordenacao":"Aurelio Gonzales\nPsicanalista, Professor e Diretor do NBP-Nucleo Brasileiro de Psicanalise"
+      },
+      {
+         "nome":"Curso Livro Nocoes Basicas de Psicanalise (Online)",
+         "data":"Toda sexta-feira",
+         "duracao":"",
+         "Hora":"19:00 as 20:00",
+         "matricula":"",
+         "mensalidade":"",
+         "valor":"R$ 15,00 / aulaR$ 10,00 / aula (alunos NBP)",
+         "informacao":"O Livro Nocoes Basicas de Psicanalise do Charles Brenner e um classico necessario para todos aqueles que desejam estudar, saber mais sobre a Psicanalise.\nPor conta disso, o nosso Psicanalista, Professor e Diretor Aurelio Gonzales tem se dedicado a toda sexta-feira das 19h as 20h estudar com um grupo de interessados(as) em obter mais conhecimento sobre o tema.\nEntre em contato conosco mais informacoes!\n",
+         "turma":"",
+         "requisito":"",
+         "conteudo":"",
+         "atividade":[
+            
+         ],
+         "estagio":"",
+         "coordenacao":""
+      }
+   ]
+}
